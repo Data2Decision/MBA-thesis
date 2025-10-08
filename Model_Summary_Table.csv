@@ -1,0 +1,8 @@
+Model,Accuracy,Sharpe Ratio,Max Drawdown (%)
+Bollinger Bands,0.485,-0.218,29.094
+LSTM,0.507,0.303,29.377
+MACD,0.491,0.131,25.196
+RSI,0.49,-0.088,45.536
+TCN,0.51,0.304,27.96
+Transformer,0.506,-0.059,33.835
+XGBoost,0.493,-0.214,37.915
